@@ -1,5 +1,4 @@
 debug/
 target/
 *.exe
-*.toml
 Cargo.lock

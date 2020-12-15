@@ -1,3 +1,5 @@
+//Author: AlbinoGazelle
+//Purpose: Calculate nth fibonacci number
 fn fib(n: u32) -> u32{
     if n <= 2 {
         1
